@@ -21,7 +21,7 @@ Create a comprehensive web application that allows administrators to perform CRU
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   https://github.com/kruthickroshan99/PRODIGY_FS_02
    ```
 
 2. Open the application:
