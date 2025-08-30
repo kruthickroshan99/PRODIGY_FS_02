@@ -27,15 +27,7 @@ Create a comprehensive web application that allows administrators to perform CRU
 2. Open the application:
    ```bash
    # Simply open the HTML file in your web browser
-   open index.html
-   ```
-   Or alternatively, serve it using a local web server:
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js
-   npx serve .
+   open main.html
    ```
 
 3. Login using the demo credentials and start managing employee records through the intuitive web interface.
