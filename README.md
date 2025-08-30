@@ -48,16 +48,20 @@ Create a comprehensive web application that allows administrators to perform CRU
 ## Screenshots
 
 ### Login Screen
-![Login Interface](https://via.placeholder.com/800x400/667eea/ffffff?text=Secure+Login+Interface)
+(<img width="1919" height="911" alt="Screenshot 2025-08-30 140806" src="https://github.com/user-attachments/assets/57a87070-2523-4045-a6a0-0490ccf20e64" />
+)
 
-### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/764ba2/ffffff?text=Employee+Dashboard+with+Statistics)
+### Employee Management Form
+(<img width="1918" height="911" alt="Screenshot 2025-08-30 140825" src="https://github.com/user-attachments/assets/88c0b875-4c28-469d-a793-58e3661ce238" />
+)
 
-### Employee Management
-![Employee Cards](https://via.placeholder.com/800x400/56ab2f/ffffff?text=Employee+Cards+with+CRUD+Operations)
+### Add Employee Form
+(<img width="1919" height="905" alt="Screenshot 2025-08-30 140854" src="https://github.com/user-attachments/assets/f5c03409-7058-44cc-8b3a-96b9b4fbd319" />
+)
 
-### Add/Edit Employee Form
-![Employee Form](https://via.placeholder.com/800x400/f093fb/ffffff?text=Employee+Form+with+Validation)
+### Edit Employee Form
+(<img width="1919" height="904" alt="Screenshot 2025-08-30 141246" src="https://github.com/user-attachments/assets/3120f7c2-ae4f-49f4-ae65-09aef3a45d36" />
+)
 
 ## Technical Specifications
 
